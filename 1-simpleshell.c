@@ -7,7 +7,7 @@
 * Return: Sum of the two numbers
 */
 
-int main(void)
+int add numbers(int num1, int num2)
 {
 	int num1 = 10;
 	int num2 = 5;
