@@ -5,6 +5,7 @@
 #include <sys/wait.h>
 
 int main(void);
+int add numbers(int num1, int num2);
 int main(int ac, char **av);
 char *_getenv(const char *name);
 int _setenv(const char *name, const char *value, int overwrite);
